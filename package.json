@@ -1,0 +1,11 @@
+{
+  "name": "gulp-project-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NaumVlad/GULP.git",
+  "author": "NaumVlad <Naumenko.vlad49000@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
