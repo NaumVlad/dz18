@@ -6,6 +6,7 @@
   "author": "NaumVlad <Naumenko.vlad49000@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "bootstrap": "^5.2.2",
     "normalize.css": "^8.0.1"
   }
 }
