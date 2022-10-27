@@ -7,6 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^5.2.2",
+    "comb": "^2.0.0",
     "normalize.css": "^8.0.1"
   }
 }
