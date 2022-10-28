@@ -1,15 +1,8 @@
 {
-  "name": "Bootstrap",
+  "name": "dz18",
   "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/NaumVlad/dz18.git",
-  "author": "NaumVlad <Naumenko.vlad49000@gmail.com>",
-  "license": "MIT",
-  "dependencies": {
-    "bootstrap": "^5.2.2",
-    "comb": "^2.0.0",
-    "normalize.css": "^8.0.1"
-  }
+  "description": "Bootstrap",
+  "main": "gulpfile.js",
   "scripts": {
     "editorconfig": "editorconfig-checker -exclude libs"
   },
