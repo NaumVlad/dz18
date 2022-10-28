@@ -10,4 +10,21 @@
     "comb": "^2.0.0",
     "normalize.css": "^8.0.1"
   }
+  "scripts": {
+    "editorconfig": "editorconfig-checker -exclude libs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaumVlad/dz18.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaumVlad/dz18/issues"
+  },
+  "homepage": "https://github.com/NaumVlad/dz18#readme",
+  "devDependencies": {
+    "editorconfig-checker": "^4.0.2"
+  }
 }
