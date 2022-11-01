@@ -1,11 +1,20 @@
 {
   "name": "dz18",
   "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/NaumVlad/dz18.git",
-  "author": "NaumVlad <Naumenko.vlad49000@gmail.com>",
-  "license": "MIT",
-  "dependencies": {
-    "bootstrap": "^5.2.2"
-  }
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaumVlad/dz18.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaumVlad/dz18/issues"
+  },
+  "homepage": "https://github.com/NaumVlad/dz18#readme"
 }
