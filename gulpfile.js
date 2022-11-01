@@ -33,7 +33,7 @@ const PLUGINS = [
     ],
     cascade: true
   }),
-  /*   mqpacker({sort: sortCSSmq}) */
+  mqpacker({ sort: sortCSSmq })
 ];
 
 function scss() {
